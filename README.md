@@ -10,7 +10,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.gg/Hidden_xx" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+    <a href="https://discord.gg/hidd3n_04" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
