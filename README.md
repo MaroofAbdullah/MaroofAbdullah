@@ -30,23 +30,18 @@
 <h3 style="font-size: larger; text-align: left">
   🎓: I graduated from Reva University, Department of Computer Science & Engineering (BTECH)
 </h3>
-<br>
 <h3 style="font-size: larger; text-align: left">
   🎓: I graduated from St.Johns High School
 </h3>
-<br>
 <h3 style="font-size: larger; text-align: left">
   💻: I love writing code and learn anything about it
 </h3>
-<br>
 <h3 style="font-size: larger; text-align: left">
   💬: Ask me anything from <a href="https://github.com/MaroofAbdullah/MaroofAbdullah/issues" title="Issues">here</a>
 </h3>
-<br>
 <h3 style="font-size: larger; text-align: left">
   📫: How to reach me: <a href="mailto:maroofabduulah0402@gmail.com">Mail</a>
 </h3>
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
