@@ -19,6 +19,9 @@
   <code><a href="https://store.steampowered.com/" title="LinkedIn Profile"><img width="22" src="image.png"> Steam</a></code>
   <code><a href="https://www.instagram.com/__maroof_04__/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+<p align="center">
+  <img src="images/coderman.gif" />
+</p>
 <br>
 <p align="center">
   Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.
