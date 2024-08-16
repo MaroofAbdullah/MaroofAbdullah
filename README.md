@@ -24,17 +24,17 @@
 </p>
 <br>
 <p align="center">
-  Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.
+  <span style="font-size: larger;">Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
   <br>
-  🎓 I graduated from Reva University, Department of Computer Science Engineering (BTECH)
+  <span style="font-size: larger;">🎓 I graduated from Reva University, Department of Computer Science Engineering (BTECH)</span>
   <br>
-  🎓 I graduated from St.Johns High School
+  <span style="font-size: larger;">🎓 I graduated from St.Johns High School</span>
   <br>
-  💻 I love writing code and learn anythings about it
+  <span style="font-size: larger;">💻 I love writing code and learn anythings about it</span>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/MaroofAbdullah/MaroofAbdullah/issues" title="Issues">Here</a>
+  <span style="font-size: larger;">💬 Ask me anything about from <a href="https://github.com/MaroofAbdullah/MaroofAbdullah/issues" title="Issues">Here</a></span>
   <br>
-  📫 How to reach me: <a href="mailto:maroofabduulah0402@gmail.com">Mail</a>
+  <span style="font-size: larger;">📫 How to reach me: <a href="mailto:maroofabduulah0402@gmail.com">Mail</a></span>
 </p>
 
 <hr>
@@ -95,8 +95,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/MaroofAbdullah/Youtube_Title_and_Content_Generator" title="Youtube Title and Content Generator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaroofAbdullah&repo=Youtube_Title_and_Content_Generator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/MaroofAbdullah/driver-drowsiness-detection" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaroofAbdullah&repo=driver-drowsiness-detection&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
