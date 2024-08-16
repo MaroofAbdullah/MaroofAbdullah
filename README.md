@@ -10,7 +10,7 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maroofabdullah0402@gmail.com)
 
 
-
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameborder="0" allowfullscreen></iframe>
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Giphy Animation" width="480">
 <p><a href="https://giphy.com/gifs/2IudUHdI075HL02Pkk">via GIPHY</a></p>
+
 
