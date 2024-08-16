@@ -23,10 +23,10 @@
   <img src="images/coderman.gif" />
 </p>
 <br>
-<h3 align="left">
-  <span align="center">Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
+<h3 align="center">
+  <span>Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
   <br>
-  <span style="font-size: larger;">🎓: I graduated from Reva University, Department of Computer Science Engineering (BTECH)</span>
+  <span style="font-size: larger; align=left">🎓: I graduated from Reva University, Department of Computer Science & Engineering (BTECH)</span>
   <br>
   <span style="font-size: larger;">🎓: I graduated from St.Johns High School</span>
   <br>
