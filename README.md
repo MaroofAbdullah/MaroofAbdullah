@@ -24,7 +24,7 @@
 </p>
 <br>
 <h2 align="center">
-  <span style="font-size: larger;">Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
+  <span>Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
   <br>
   <span style="font-size: larger;">🎓 I graduated from Reva University, Department of Computer Science Engineering (BTECH)</span>
   <br>
