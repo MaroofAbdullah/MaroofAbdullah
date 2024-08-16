@@ -23,18 +23,28 @@
   <img src="images/coderman.gif" />
 </p>
 <br>
-<h3>
-  <span align="center">Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
-  <br>
-  <span style="font-size: larger; align=left">🎓: I graduated from Reva University, Department of Computer Science & Engineering (BTECH)</span>
-  <br>
-  <span style="font-size: larger; align=left"">🎓: I graduated from St.Johns High School</span>
-  <br>
-  <span style="font-size: larger; align=left"">💻: I love writing code and learn anythings about it</span>
-  <br>
-  <span style="font-size: larger; align=left"">💬: Ask me anything about from <a href="https://github.com/MaroofAbdullah/MaroofAbdullah/issues" title="Issues">Here</a></span>
-  <br>
-  <span style="font-size: larger; align=left"">📫: How to reach me: <a href="mailto:maroofabduulah0402@gmail.com">Mail</a></span>
+<h3 align="center">
+  Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.
+</h3>
+<br>
+<h3 style="font-size: larger; text-align: left">
+  🎓: I graduated from Reva University, Department of Computer Science & Engineering (BTECH)
+</h3>
+<br>
+<h3 style="font-size: larger; text-align: left">
+  🎓: I graduated from St.Johns High School
+</h3>
+<br>
+<h3 style="font-size: larger; text-align: left">
+  💻: I love writing code and learn anything about it
+</h3>
+<br>
+<h3 style="font-size: larger; text-align: left">
+  💬: Ask me anything from <a href="https://github.com/MaroofAbdullah/MaroofAbdullah/issues" title="Issues">here</a>
+</h3>
+<br>
+<h3 style="font-size: larger; text-align: left">
+  📫: How to reach me: <a href="mailto:maroofabduulah0402@gmail.com">Mail</a>
 </h3>
 
 <hr>
