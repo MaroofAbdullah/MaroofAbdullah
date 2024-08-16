@@ -9,7 +9,7 @@
     I'm Maroof Abdullah 👋  
     I'm a Machine Learning Engineer with a passion for building intelligent systems...
   </div>
-  <div align="left">
+  <div align="right">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Giphy Animation" width="150">
   </div>
 </div>
