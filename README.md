@@ -23,7 +23,7 @@
   <img src="images/coderman.gif" />
 </p>
 <br>
-<h2 align="center">
+<h3 align="center">
   <span>Hi, I'm Maroof Abdullah, an ML engineer in the computer vision domain based in Bangalore, India.</span>
   <br>
   <span style="font-size: larger;">🎓 I graduated from Reva University, Department of Computer Science Engineering (BTECH)</span>
@@ -35,7 +35,7 @@
   <span style="font-size: larger;">💬 Ask me anything about from <a href="https://github.com/MaroofAbdullah/MaroofAbdullah/issues" title="Issues">Here</a></span>
   <br>
   <span style="font-size: larger;">📫 How to reach me: <a href="mailto:maroofabduulah0402@gmail.com">Mail</a></span>
-</h2>
+</h3>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
