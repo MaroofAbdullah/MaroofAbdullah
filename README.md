@@ -6,13 +6,22 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/Maroof-Abdullah/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.gg/hidd3n_04" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/Maroof-Abdullah/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/hidd3n_04" alt="Discord" title="Dev Pro Tips Discord Server">
+    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
+  </a>
+  <a href="https://www.instagram.com/__maroof_04__/" alt="Instagram" title="Instagram">
+    <img width="32px" height="32px"  src="images/Instagram_icon_.2png"/>
+  </a>
 </p>
+
 
 
 <h5 align="center">
