@@ -7,27 +7,23 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/Maroof-Abdullah/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="images/LinkedIn1.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+  <a href="#">
+    <img width="32px" alt="Twitter" title="Twitter" src="images/Twitter1.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/hidd3n_04" alt="Discord" title="Dev Pro Tips Discord Server">
-    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-  </a>
   <a href="https://www.instagram.com/__maroof_04__/" alt="Instagram" title="Instagram">
-    <img width="32px" height="32px"  src="images/Instagram_icon_.2png"/>
+    <img width="32px" src="images/Instagram1.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.chess.com/member/maroof_0402" alt="ISteam" title="Steam">
+    <img width="20px" src="images/chess.png"/>
   </a>
 </p>
+<!-- Social icons section -->
 
-
-
-<h5 align="center">
-  <code><a href="https://store.steampowered.com/" title="LinkedIn Profile"><img width="22" src="image.png"> Steam</a></code>
-  <code><a href="https://www.instagram.com/__maroof_04__/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
 <p align="center">
   <img src="images/coderman.gif" />
 </p>
