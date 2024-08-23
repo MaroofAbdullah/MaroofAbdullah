@@ -6,7 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/Maroof-Abdullah/">
+  <a href="https://www.linkedin.com/in/Maroof-Abdullah/" alt="linkedin" title="linkedin">
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="images/LinkedIn1.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,7 +18,7 @@
     <img width="32px" src="images/Instagram1.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.chess.com/member/maroof_0402" alt="ISteam" title="Steam">
+  <a href="https://www.chess.com/member/maroof_0402" alt="Chess" title="Chess">
     <img width="20px" src="images/chess.png"/>
   </a>
 </p>
