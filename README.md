@@ -70,6 +70,7 @@
   <code><img title="npm" height="35" src="images/npm.svg"></code>
   <code><img title="PHP" height="35" src="images/php.svg"></code>
   <code><img title="Flask" height="35" src="images/flask.png"></code>
+  <code><img title="Streamlit" height="35" src="images/streamlit.jpg"></code>
 </p>
 <hr>
 
