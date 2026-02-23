@@ -73,23 +73,6 @@
 <hr>
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MaroofAbdullah/Maroof-Portfolio" title="Maroof-Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaroofAbdullah&repo=Maroof-Portfolio&theme=react&border_color=61dafb&border_radius=15"></a>
-  <a align="right" href="https://github.com/MaroofAbdullah/PDF-Chatbot-using-LangChain" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaroofAbdullah&repo=PDF-Chatbot-using-LangChain&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/MaroofAbdullah/Youtube_Title_and_Content_Generator" title="Youtube Title and Content Generator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaroofAbdullah&repo=Youtube_Title_and_Content_Generator&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/MaroofAbdullah/driver-drowsiness-detection" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaroofAbdullah&repo=driver-drowsiness-detection&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/MaroofAbdullah?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 
 
 
